@@ -12,7 +12,7 @@ if (close) {
     nav.classList.remove('active');
   })
 }
-
+// active Navbar
 // slider product
 var mainImg = document.getElementById("mainImg");
 var smallImg = document.getElementsByClassName("small-img");
